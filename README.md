@@ -1,8 +1,9 @@
-# 🌟 AstroCalc Framework
+````markdown
+# � JZero - Open Source Astrology Engine
 
-**Working astrology calculation engine for JavaScript developers.**
+**Free, open-source astrology calculation engine for everyone.**
 
-Calculate Moon positions, house cusps, and chart angles out of the box. Add Swiss Ephemeris for other planets.
+Built on J2000, this engine provides accurate calculations for Moon positions, house cusps, and chart angles. Perfect for astrology enthusiasts, developers, and anyone interested in astrological computations.
 
 ## ⚡ Quick Start
 
