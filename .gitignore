@@ -1,0 +1,7 @@
+# Node/Python/OS common
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+# archives
+*.zip

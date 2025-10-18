@@ -1,0 +1,33 @@
+{
+  "name": "open-source-astrology-calculator",
+  "version": "1.0.0",
+  "description": "Free, open-source astrology calculator using Julian Day forward calculations. Giving back to the community! 🌟",
+  "type": "module",
+  "main": "src/calculator.js",
+  "scripts": {
+    "dev": "npx serve public -p 3000",
+    "test": "node --experimental-modules test/test.js",
+    "start": "npx serve public -p 8080"
+  },
+  "keywords": [
+    "astrology",
+    "birth-chart",
+    "natal-chart",
+    "julian-day",
+    "ephemeris",
+    "planets",
+    "zodiac",
+    "houses",
+    "open-source",
+    "astronomy",
+    "calculator"
+  ],
+  "author": "Community Contribution",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/astrology-calculator"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}

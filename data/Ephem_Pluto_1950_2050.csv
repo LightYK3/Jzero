@@ -1,0 +1,51 @@
+JD,Date_UT,Body,Sign,Deg,Lon,Notes,Source
+2435762.71667,1956-10-20 05:12:00,Pluto,Virgo,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2435762.933336667,1956-10-20 00:00:00,Pluto,Virgo,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2435849.61458,1957-01-15 02:45:00,Pluto,Leo,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2435849.7291633333,1957-01-15 00:00:00,Pluto,Leo,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2436065.68264,1957-08-19 04:23:00,Pluto,Virgo,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2436065.8652788885,1957-08-19 00:00:00,Pluto,Virgo,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2436301.08194,1958-04-11 13:58:00,Pluto,Leo,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2436301.663884444,1958-04-11 00:00:00,Pluto,Leo,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2436361.28472,1958-06-10 18:50:00,Pluto,Virgo,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2436362.069442222,1958-06-10 00:00:00,Pluto,Virgo,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2441225.75972,1971-10-05 06:14:00,Pluto,Libra,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2441226.019442222,1971-10-05 00:00:00,Pluto,Libra,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2441420.78403,1972-04-17 06:49:00,Pluto,Virgo,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2441421.068057778,1972-04-17 00:00:00,Pluto,Virgo,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2441524.98542,1972-07-30 11:39:00,Pluto,Libra,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2441525.4708366664,1972-07-30 00:00:00,Pluto,Libra,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2445640.37986,1983-11-05 21:07:00,Pluto,Scorpio,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2445641.2597211115,1983-11-05 00:00:00,Pluto,Scorpio,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2445835.10764,1984-05-18 14:35:00,Pluto,Libra,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2445835.715278889,1984-05-18 00:00:00,Pluto,Libra,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2445936.69722,1984-08-28 04:44:00,Pluto,Scorpio,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2445936.894442222,1984-08-28 00:00:00,Pluto,Scorpio,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2449730.88611,1995-01-17 09:16:00,Pluto,Sagittarius,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2449731.2722211108,1995-01-17 00:00:00,Pluto,Sagittarius,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2449824.62222,1995-04-21 02:56:00,Pluto,Scorpio,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2449824.744442222,1995-04-21 00:00:00,Pluto,Scorpio,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2450028.29931,1995-11-10 19:11:00,Pluto,Sagittarius,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2450029.098615556,1995-11-10 00:00:00,Pluto,Sagittarius,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2454486.60903,2008-01-26 02:37:00,Pluto,Capricorn,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2454486.7180577777,2008-01-26 00:00:00,Pluto,Capricorn,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2454626.71736,2008-06-14 05:13:00,Pluto,Sagittarius,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2454626.934721112,2008-06-14 00:00:00,Pluto,Sagittarius,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2454792.54375,2008-11-27 01:03:00,Pluto,Capricorn,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2454792.5875000004,2008-11-27 00:00:00,Pluto,Capricorn,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460022.05069,2023-03-23 13:13:00,Pluto,Aquarius,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460022.601384444,2023-03-23 00:00:00,Pluto,Aquarius,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460101.90764,2023-06-11 09:47:00,Pluto,Capricorn,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460102.3152788887,2023-06-11 00:00:00,Pluto,Capricorn,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460325.53472,2024-01-21 00:50:00,Pluto,Aquarius,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460325.569442222,2024-01-21 00:00:00,Pluto,Aquarius,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460550.50694,2024-09-02 00:10:00,Pluto,Capricorn,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460550.5138844447,2024-09-02 00:00:00,Pluto,Capricorn,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460629.35278,2024-11-19 20:28:00,Pluto,Aquarius,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2460630.205557777,2024-11-19 00:00:00,Pluto,Aquarius,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2467312.57222,2043-03-09 01:44:00,Pluto,Pisces,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2467312.644442222,2043-03-09 00:00:00,Pluto,Pisces,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2467488.64861,2043-09-01 03:34:00,Pluto,Aquarius,0.0,,EDT→UT (+4h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2467488.797221111,2043-09-01 00:00:00,Pluto,Aquarius,0.0,,EDT→UT (+4h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2467628.89583,2044-01-19 09:30:00,Pluto,Pisces,0.0,,EST→UT (+5h) | src:ingress_by_body_csv.zip:Pluto.csv | src:ingress_by_body_csv.zip | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
+2467629.2916633333,2044-01-19 00:00:00,Pluto,Pisces,0.0,,EST→UT (+5h) | src:ephem_master_UNIFIED.csv | Ingress | src:MASTER_Ephem.csv,MASTER_Ephem_SYSTEM.csv
